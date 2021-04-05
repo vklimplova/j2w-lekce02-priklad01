@@ -1,4 +1,4 @@
-# Lekce 2
+# Lekce 2 – hod kostkou
 
 Cílem je vytvořit webovou stránku, která simuluje hod kostkou. Zdrojový kód obsahuje webovou stránku, která vždy zobrazí, že bylo hozeno číslo 1. Je potřeba
 tuto stránku předělat na dynamickou stránku, která při každém zobrazení zobrazí náhodné číslo od 1 do 6 a odpovídající obrázek. Obrázky jsou připravené ve
@@ -14,4 +14,4 @@ zdrojích v adresáři `static/images`.
 1. Zkontroluj výsledek v prohlížeči – při každém načtení stránky by se mělo zobrazit náhodné číslo mezi 1 a 6 a příslušný obrázek kostky.
 
 ## Mohlo by se hodit
-* odkaz na stránku [Lekce 2](https://java.czechitas.cz/2021-jaro/java-2/lekce-1.html)
+* odkaz na stránku [Lekce 2](https://java.czechitas.cz/2021-jaro/java-2/lekce-2.html)
